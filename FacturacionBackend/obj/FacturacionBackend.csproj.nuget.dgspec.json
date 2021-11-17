@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\UTN FRC TUP\\2 cuatrimestre 2021\\3.Miercoles - Programacion II\\PY17-11\\proyecto\\FacturacionBackend\\FacturacionBackend.csproj": {}
+  },
+  "projects": {
+    "D:\\UTN FRC TUP\\2 cuatrimestre 2021\\3.Miercoles - Programacion II\\PY17-11\\proyecto\\FacturacionBackend\\FacturacionBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UTN FRC TUP\\2 cuatrimestre 2021\\3.Miercoles - Programacion II\\PY17-11\\proyecto\\FacturacionBackend\\FacturacionBackend.csproj",
+        "projectName": "FacturacionBackend",
+        "projectPath": "D:\\UTN FRC TUP\\2 cuatrimestre 2021\\3.Miercoles - Programacion II\\PY17-11\\proyecto\\FacturacionBackend\\FacturacionBackend.csproj",
+        "packagesPath": "C:\\Users\\Alvaro\\.nuget\\packages\\",
+        "outputPath": "D:\\UTN FRC TUP\\2 cuatrimestre 2021\\3.Miercoles - Programacion II\\PY17-11\\proyecto\\FacturacionBackend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alvaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.ReportingServices.ReportViewerControl.WebForms": {
+              "target": "Package",
+              "version": "[150.1484.0, )"
+            },
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1484.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

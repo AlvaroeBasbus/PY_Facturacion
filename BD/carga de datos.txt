@@ -1,0 +1,340 @@
+INSERT INTO users(loginname,password)
+values('admin','admin'),
+('user','user')
+
+------- SP_login 
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[SP_LOGIN]
+	@USUARIO VARCHAR(50) = null,
+    @CONTRASENA VARCHAR(50) = null,
+    @USUARIOS int OUTPUT
+AS
+BEGIN
+	SELECT * FROM users
+	WHERE loginname = @USUARIO AND password = @CONTRASENA;
+
+    SELECT @USUARIOS = @@ROWCOUNT;
+END
+GO
+
+
+
+--------------
+CREATE PROCEDURE [dbo].[SP_INSERTAR_PRODUCTO]
+
+	@descripcion varchar(30),
+	@precio int, 
+	@stock int
+AS
+BEGIN
+	INSERT INTO productos(descripcion,precio,stock)
+    VALUES (@descripcion,@precio,@stock);
+  
+END
+
+
+
+-----
+CREATE PROCEDURE [dbo].[SP_ACTUALIZAR_PRODUCTO]
+	@id int,
+	@descripcion varchar(30),
+	@precio int, 
+	@stock int
+AS
+BEGIN
+	update productos set
+	descripcion=@descripcion,
+	precio=@precio,
+	stock=@stock
+	where id_producto=@id;
+  
+END
+
+
+
+-----
+create PROCEDURE [dbo].[SP_ELIMINAR_PRODUCTO] 
+	@id_producto int
+AS
+BEGIN
+	delete productos 
+	WHERE id_producto = @id_producto;
+	
+END
+
+
+--------------------
+
+
+
+
+
+
+
+
+CREATE PROCEDURE [dbo].[SP_ACTUALIZAR_CLIENTE] 
+	@id_producto int,
+	@nombre varchar(30),
+	@apellido varchar(30),
+	@documento int,
+	@telefono int,
+	@domicilio varchar(200),
+	@correo varchar (100),
+	@condicion int
+
+AS
+BEGIN
+	UPDATE clientes SET nombre =@nombre,
+	                   apellido = @apellido,
+					   documento = @documento,
+					   telefono = @telefono,
+					   Domicilio = @domicilio,
+					   correo = @correo,
+					   id_condiciones_iva = @condicion
+	WHERE id_cliente = @id_producto;
+	
+END
+
+----
+
+CREATE PROCEDURE [dbo].[SP_ELIMINAR_CLIENTE] 
+	@id_producto int
+AS
+BEGIN
+	delete clientes
+	WHERE id_cliente = @id_producto;
+	
+END
+
+----
+INSERT INTO condiciones_iva (tipo_condicion)
+      VALUES ('Consumidor Final'),('Responsable Inscripto'),('Monotributo')
+
+-----
+create  PROCEDURE [dbo].[SP_INSERTAR_CLIENTE] 
+	@id_producto int,
+	@nombre varchar(30),
+	@apellido varchar(30),
+	@documento int,
+	@telefono int,
+	@domicilio varchar(200),
+	@correo varchar (100),
+	@condicion int
+AS
+BEGIN
+	INSERT INTO clientes (nombre,apellido,documento,telefono,Domicilio,correo,id_condiciones_iva)
+	       VALUES(@nombre,@apellido,@documento,@telefono,@domicilio,@correo,@condicion)
+	      
+  
+END
+
+--------
+CREATE PROCEDURE [dbo].[SP_CONSULTAR_CONDICION_IVA]
+AS
+BEGIN
+	
+	SELECT * from condiciones_iva;
+END
+
+---------------------
+CREATE PROCEDURE [dbo].[SP_CONSULTAR_CLIENTES]
+AS
+BEGIN
+	
+	SELECT c.*, cv.tipo_condicion as 'condicion'  from clientes c
+			join condiciones_iva cv on c.id_condiciones_iva=cv.id_condiciones_iva
+
+END
+--------------------
+
+alter  PROCEDURE [dbo].[SP_INSERTAR_CLIENTE] 
+	@id_producto int,
+	@nombre varchar(30),
+	@apellido varchar(30),
+	@documento int,
+	@telefono int,
+	@domicilio varchar(200),
+	@correo varchar (100),
+	@condicion varchar(30)
+AS
+BEGIN		
+	DECLARE @ID_CONDICION INT
+	set @ID_CONDICION = (Select id_condiciones_iva from condiciones_iva where tipo_condicion=@condicion)
+
+	INSERT INTO clientes (nombre,apellido,documento,telefono,Domicilio,correo,id_condiciones_iva)
+	       VALUES(@nombre,@apellido,@documento,@telefono,@domicilio,@correo,@ID_CONDICION)
+	      
+  
+END
+
+
+-------------------
+alter PROCEDURE [dbo].[SP_ACTUALIZAR_CLIENTE]
+	@id int,
+	@nombre varchar(30),
+	@apellido varchar(30),
+	@documento int,
+	@telefono int,
+	@domicilio varchar(200),
+	@correo varchar (100),
+	@condicion int
+
+	AS 
+	BEGIN
+	     DECLARE @ID_CONDICION INT
+	     set @ID_CONDICION = (Select id_condiciones_iva from condiciones_iva where tipo_condicion=@condicion)
+	UPDATE  clientes
+		set nombre = @Nombre,
+			apellido= @apellido,
+			documento = @documento,
+			telefono= @telefono,
+			Domicilio = @domicilio,
+			correo = @correo,
+			id_condiciones_iva = @ID_CONDICION
+			WHERE id_cliente=@id
+			
+	END
+
+
+
+----------
+CREATE PROCEDURE [dbo].[SP_TRAER_CLIENTES]
+AS
+BEGIN
+	
+	SELECT id_cliente,nombre+' ,'+apellido+'-'+documento from clientes;
+END
+
+-----------
+CREATE PROCEDURE [dbo].[SP_TRAER_PRODUCTOS]
+AS
+BEGIN
+	
+	SELECT id_producto,descripcion FROM productos;
+END
+
+--------------
+CREATE PROCEDURE [dbo].[SP_OBTENER_PRECIO]
+	@id int
+AS
+BEGIN
+	
+	SELECT precio from productos
+	where id_producto=@id;
+END
+--------------
+ALTER PROCEDURE [dbo].[SP_INSERTAR_FACTURA] 
+	@cliente int,
+	@total decimal(18,2),
+	@nro_factura int OUTPUT
+AS
+BEGIN
+	INSERT INTO facturas(fecha, id_cliente,total)
+    VALUES (GETDATE(), @cliente,@total);
+	
+    SET @nro_factura = SCOPE_IDENTITY();
+
+EN
+
+--------------------------
+ALTER PROCEDURE [dbo].[SP_INSERTAR_DETALLE] 
+	@NRO_FACTURA int,
+	@id_producto int, 
+	@cantidad int
+AS
+BEGIN
+DECLARE @precio decimal(8,2)
+	     set @precio = (Select precio from productos where id_producto=@id_producto)
+	INSERT INTO detalle_facturas(nro_factura,id_producto, cantidad, precio)
+    VALUES (@NRO_FACTURA, @id_producto, @cantidad, @precio);
+  
+END
+
+-----------------------------
+ALTER PROCEDURE [dbo].[SP_INSERTAR_FACTURA] 
+	@cliente int,
+	@total decimal(18,2),
+	@nro_factura int OUTPUT
+AS
+BEGIN
+DECLARE @condicion int
+	     set @condicion = (Select id_condiciones_iva from clientes c, facturas f 
+		 where c.id_cliente=f.id_cliente)
+	INSERT INTO facturas(fecha, id_cliente,total, id_metodo_pago)
+    VALUES (GETDATE(), @cliente,@total, @condicion);
+	
+    SET @nro_factura = SCOPE_IDENTITY();
+
+ENd
+
+-------------------
+
+ALTER PROCEDURE [dbo].[SP_INSERTAR_DETALLE] 
+	@NRO_FACTURA int,
+	@detalle int, 
+	@id_producto int, 
+	@cantidad int,
+	@precio decimal(10,2)
+AS
+BEGIN
+	INSERT INTO detalle_facturas(id_detalle_factura,detalle_nro ,id_producto, cantidad, precio)
+    VALUES (@NRO_FACTURA, @detalle, @id_producto, @cantidad, @precio);
+  
+END
+
+
+----------------
+
+
+
+ALTER PROCEDURE [dbo].[SP_INSERTAR_FACTURA] 
+	@cliente int,
+	@total numeric(10,2),
+	@id_detalle_factura int OUTPUT
+AS
+BEGIN
+DECLARE @condicion int
+	     set @condicion = (Select id_condiciones_iva from clientes c, facturas f 
+		 where c.id_cliente=f.id_cliente)
+	INSERT INTO facturas(fecha, id_cliente,total, id_metodo_pago)
+    VALUES (GETDATE(), @cliente,@total, @condicion);
+	
+    SET @id_detalle_factura = SCOPE_IDENTITY();
+
+ENd
+
+---------------
+
+ALTER PROCEDURE [dbo].[SP_CONSULTAR_FACTURAS] 
+	@fecha_desde Date,
+	@fecha_hasta Date,
+	@cliente int,
+	@baja varchar(1)
+AS
+BEGIN
+	
+	SELECT c.apellido + ' ' + C.nombre as 'cliente', F.fecha as 'fecha', F.nro_factura as 'factura_nro', F.total as 'total', mp.descripcion as 'metodo_pago', F.fecha_baja as 'fecha_baja'  FROM facturas F
+	JOIN clientes C ON C.id_cliente = F.id_cliente
+	join metodo_pagos mp on F.id_metodo_pago=mp.id_metodo_pago
+	WHERE 
+	 ((@fecha_desde is null and @fecha_hasta is  null) OR (fecha between @fecha_desde and @fecha_hasta))
+	 AND(@cliente is null OR c.id_cliente= @cliente)
+	 AND (@baja = 'S' OR (@baja = 'N' and F.fecha_baja IS  NULL))
+	
+	 
+END
+
+---------------------
+create PROCEDURE [dbo].[SP_ACTUALIZAR_STOCK] 
+	@id_producto int,
+	@cantidad int
+AS
+BEGIN
+
+	update productos 
+		set stock=(stock-@cantidad)
+		where id_producto=@id_producto
+ENd

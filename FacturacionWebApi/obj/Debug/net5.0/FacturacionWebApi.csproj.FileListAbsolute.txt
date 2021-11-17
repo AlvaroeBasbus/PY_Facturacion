@@ -1,0 +1,500 @@
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.exe
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.deps.json
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.json
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.dev.json
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\ref\FacturacionWebApi.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.pdb
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.pdb
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.AssemblyReference.cache
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfoInputs.cache
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfo.cs
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.xml
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\scopedcss\bundle\FacturacionWebApi.styles.css
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CopyComplete
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\ref\FacturacionWebApi.dll
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.pdb
+C:\Users\Alvaro\source\repos\FacturacionFrontend\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.genruntimeconfig.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.AssemblyReference.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfoInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CoreCompileInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\ref\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.exe
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.deps.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.dev.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\ref\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.Manifest.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.xml
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\scopedcss\bundle\FacturacionWebApi.styles.css
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.RazorTargetAssemblyInfo.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.genruntimeconfig.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CopyComplete
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.exe
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.deps.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.dev.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ref\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.Common.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.DataVisualization.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.Design.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WinForms.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.AssemblyReference.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfoInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CoreCompileInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.Manifest.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.xml
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\scopedcss\bundle\FacturacionWebApi.styles.css
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.RazorTargetAssemblyInfo.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CopyComplete
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\ref\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.genruntimeconfig.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WebDesign.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WebForms.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\SqlServerTypes\x64\msvcr120.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\SqlServerTypes\x86\msvcr120.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.exe
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.deps.json
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.json
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.dev.json
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ref\FacturacionWebApi.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.pdb
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.Common.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.Design.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WebForms.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WinForms.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Reportes.exe
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.pdb
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Reportes.pdb
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Reportes.exe.config
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csprojAssemblyReference.cache
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfoInputs.cache
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfo.cs
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.xml
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\scopedcss\bundle\FacturacionWebApi.styles.css
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CopyComplete
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\ref\FacturacionWebApi.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.pdb
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.genruntimeconfig.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.exe
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.deps.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.dev.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ref\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.Common.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.DataVisualization.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.Design.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WebDesign.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WebForms.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WinForms.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.AssemblyReference.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfoInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CoreCompileInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.Manifest.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.xml
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\scopedcss\bundle\FacturacionWebApi.styles.css
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.RazorTargetAssemblyInfo.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CopyComplete
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\ref\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.genruntimeconfig.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\appsettings.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.exe
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.deps.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.runtimeconfig.dev.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ref\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionWebApi.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.Common.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.DataVisualization.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.Design.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WebDesign.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WebForms.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.ReportViewer.WinForms.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\bin\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.AssemblyReference.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfoInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.AssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CoreCompileInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.Manifest.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\staticwebassets\FacturacionWebApi.StaticWebAssets.xml
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\scopedcss\bundle\FacturacionWebApi.styles.css
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.RazorTargetAssemblyInfo.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.csproj.CopyComplete
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\ref\FacturacionWebApi.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionWebApi\obj\Debug\net5.0\FacturacionWebApi.genruntimeconfig.cache

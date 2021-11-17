@@ -1,0 +1,78 @@
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.deps.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\bin\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfoInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.CoreCompileInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\obj\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\Py2021\PyFacturacion\Facturacion\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.deps.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\bin\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfoInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.CoreCompileInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\obj\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.AssemblyReference.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.deps.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.AssemblyReference.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfoInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.CoreCompileInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.pdb
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\SqlServerTypes\x64\msvcr120.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\SqlServerTypes\x86\msvcr120.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.deps.json
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\ref\FacturacionBackend.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.pdb
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\Reportes.exe
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\Reportes.pdb
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\Reportes.exe.config
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csprojAssemblyReference.cache
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfoInputs.cache
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfo.cs
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.CoreCompileInputs.cache
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.CopyComplete
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\ref\FacturacionBackend.dll
+C:\Users\IDENTIGRAB\Downloads\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.deps.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfoInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.CoreCompileInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PyFinal\PY15-11v3\PRoyecto15-11v2\proyecto15-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.deps.json
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\bin\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\bin\Debug\net5.0\FacturacionBackend.pdb
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.AssemblyReference.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfoInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.AssemblyInfo.cs
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.csproj.CoreCompileInputs.cache
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\obj\Debug\net5.0\ref\FacturacionBackend.dll
+D:\UTN FRC TUP\2 cuatrimestre 2021\3.Miercoles - Programacion II\PY17-11\proyecto\FacturacionBackend\obj\Debug\net5.0\FacturacionBackend.pdb
